@@ -9,7 +9,7 @@
 - Bölgesel karşılaştırmalar
 
 ## Temel Bulgular
-- Sosyal destek, mutlulukla en güçlü ilişkiyi göstermektedir.
+- Sosyal destek mutlulukla en fazla ilişkiyi göstermektedir.
 
 - Kişi başına düşen GDP önemlidir ancak tek başına yeterli değildir.
 
